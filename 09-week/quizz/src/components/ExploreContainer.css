@@ -1,0 +1,9 @@
+#container {
+  text-align: center;
+  position: relative; /* Cambiado de absolute a relative */
+  left: auto;
+  right: auto;
+  top: auto;
+  transform: none;
+  margin: 20px auto; /* Centrar con margen */
+}
